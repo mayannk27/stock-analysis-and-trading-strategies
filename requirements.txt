@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+yfinance
+pandas-datareader
+fredapi
+arch
+pykalman
+xgboost
+tensorflow
+openpyxl
+python-dotenv
+jupyterlab
